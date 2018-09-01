@@ -1,0 +1,14 @@
+TechM questions
+1 : How to maintain session in restFul services (Restful is stateless)
+2 : How to handle exceptions in spring
+3 : What is patch method
+4 : PUT vs POST, what PUT is intended for
+5 : Java 8 streams uses
+6 : How to do transaction management in spring jdbcTemplate
+7 : Steps involved in CI/CD
+8 : What is interceptor (https://www.google.com/imgres?imgurl=https://i.stack.imgur.com/5wVf9.png&imgrefurl=https://stackoverflow.com/questions/18853221/what-are-interceptors-in-java-ee&h=419&w=671&tbnid=bdYhwlilcHplyM:&q=what+is+interceptor+in+java&tbnh=136&tbnw=217&usg=AFrqEzckIuMYXavPkhKOlAwAb0J_MAN5tg&vet=12ahUKEwi1oIGZwfbcAhVluVkKHepKBegQ9QEwAHoECAoQBg..i&docid=LOkQ_mBs0OGNmM&sa=X&ved=2ahUKEwi1oIGZwfbcAhVluVkKHepKBegQ9QEwAHoECAoQBg)
+9 : @PATCH method use
+
+Topics to be covered : 
+1 : CICD process (DevOps)
+2 : Spring modules in resume
