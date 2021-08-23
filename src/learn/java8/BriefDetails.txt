@@ -1,0 +1,27 @@
+Consumer : 
+It accepts 1 arg and return nothing. SAM is accept
+
+BiConsumer : 
+It accepts 2 args and return nothing. SAM is accept
+
+Predicate : 
+Predicate means assert or affirm
+It takes 1 arg and return boolean. SAM is test
+
+BiPredicate : 
+It takes 2 args and return boolean. SAM is test
+
+Function : 
+accept one arg and return a generic type. SAM is apply
+
+BiFunction : 
+accept 2 args and return a generic type. SAM is apply
+
+UnaryOperator : 
+It extends function. It takes 1 arg and return same type. SAM is apply 
+
+BinaryOperator : 
+It extends BiFunction. It takes 2 args and return same type. SAM is apply 
+
+Supplier : 
+Opposite of consumer. It won't take arg. It will return something. SAM is get
