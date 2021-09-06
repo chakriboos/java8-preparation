@@ -101,16 +101,10 @@ public class Student {
         System.out.println("List of Activities are : " + this.activities);
     }
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "name='" + name + '\'' +
-                ", gradeLevel=" + gradeLevel +
-                ", gpa=" + gpa +
-                ", gender='" + gender + '\'' +
-                ", activities=" + activities +
-                '}';
-    }
-
+	@Override
+	public String toString() {
+		return "Student [name=" + name + ", gradeLevel=" + gradeLevel + ", gpa=" + gpa + ", gender=" + gender
+				+ ", noteBooks=" + noteBooks + ", bike=" + bike + ", activities=" + activities + "]";
+	}
 
 }

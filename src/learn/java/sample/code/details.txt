@@ -1,0 +1,10 @@
+Equals N hashcode contract ::
+two objects which are equal(we can decide this by calling equals method) 
+should produce same hashcode. 
+This is the contract between equals N hashcode methods.
+
+Native keyword : In java if we want to execute code written in other languages 
+like c, c++ we need to use this keyword.
+Transient keyword : In serialization if we want to exclude a field then we use this keyword.
+It will include default value instead of actual value
+

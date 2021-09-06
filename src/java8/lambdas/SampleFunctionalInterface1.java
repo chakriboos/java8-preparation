@@ -1,6 +1,6 @@
 package java8.lambdas;
 
-@FunctionalInterface
+//@FunctionalInterface
 public interface SampleFunctionalInterface1 {
 	
 	void doNothing();
