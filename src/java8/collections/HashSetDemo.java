@@ -8,11 +8,11 @@ public class HashSetDemo {
 	public static void main(String[] args) {
 		Set<String> set = new HashSet<String>();
 		
-		set.add("one");
-		System.out.println(set);
+		boolean oneAdded = set.add("one");
+		System.out.println(set + " Added : " + oneAdded);
 		
-		set.add("one");
-		System.out.println(set);
+		boolean twoAdded = set.add("one");
+		System.out.println(set + " Added : " + twoAdded);
 		
 		
 		

@@ -23,6 +23,8 @@ public class CheckPalindrome {
 			
 			if (input.equals(reverse.toString())) {
 				System.out.println("INPUT " + input + " is palindrome");
+			} else {
+				System.out.println("INPUT " + input + " NOT palindrome");
 			}
  	}
 

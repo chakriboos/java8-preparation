@@ -8,6 +8,8 @@ public class ConsumerDemo {
 		// TODO Auto-generated method stub
 		Consumer<String> consumer = (s) -> System.out.println(s.toUpperCase());
 		
+		Consumer<String> consumer2 = (System.out::print);
+		
 		consumer.accept("mayank");
 	}
 
