@@ -20,6 +20,7 @@ public class VarArgsDemo {
 	}*/
 	
 	public static void main(String[] args) {
+		//Master Comment1 added
 		VarArgsDemo v = new VarArgsDemo();
 		v.printSum(10,20,30);
 		v.printSum(10,20,30,1,1,1,1,1);
